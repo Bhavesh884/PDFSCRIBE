@@ -82,9 +82,9 @@ const Header = () => {
           </button>
         </div>
         <div className="flex gap-5 text-3xl absolute bottom-0 my-5 px-10">
-          <BsLinkedin />
-          <FaFacebookSquare />
-          <FaTwitterSquare />
+          <BsLinkedin className="text-[#008080]" />
+          <FaFacebookSquare className="text-[#008080]" />
+          <FaTwitterSquare className="text-[#008080]" />
         </div>
       </div>
 

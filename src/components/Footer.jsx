@@ -65,9 +65,9 @@ const Footer = () => {
             <div>Cookies</div>
           </div>
           <div className="flex gap-5 text-2xl">
-            <TiSocialLinkedin />
-            <TiSocialFacebook />
-            <TiSocialTwitter />
+            <TiSocialLinkedin className="text-[#008080]" />
+            <TiSocialFacebook className="text-[#008080]" />
+            <TiSocialTwitter className="text-[#008080]" />
           </div>
         </div>
       </div>
